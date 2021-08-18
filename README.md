@@ -1,6 +1,13 @@
 # thinkphp6 阿里云oss
 
 基于 [xxtime/flysystem-aliyun-oss](https://github.com/xxtime/flysystem-aliyun-oss) 轻度封装tp
+## 安装
+
+---
+```shell
+composer require death_satan/thinkphp-aliyun-oss
+```
+---
 
 ## 初始化
 ### 修改配置 *config/filesystem.php* 文件
